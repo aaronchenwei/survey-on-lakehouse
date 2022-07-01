@@ -14,4 +14,4 @@ layout: default
 
 > A data lakehouse is a data solution concept that combines elements of the **data warehouse** with those of the **data lake**.
 > 
-> Data lakehouses implement data warehouses’ data structures and management features for data lakes, which are typically more cost-effective for data storage. Data lakehouses are useful to data scientists as they enable machine learning and business intelligence. 
+> Data lakehouses implement data warehouses' data structures and management features for data lakes, which are typically more cost-effective for data storage. Data lakehouses are useful to data scientists as they enable machine learning and business intelligence. 
